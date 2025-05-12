@@ -2,8 +2,7 @@
 
 This is my first large project in the Coq Proof Assistant. :)
 
-## 1. DEFINITIONS.V: Create definitions of each structure and function mentioned in the
-paper
+## 1. DEFINITIONS.V: Create definitions of each structure and function in the paper
 a. This includes points, vectors, vector operations
   i. As well as the epicycle and deferent circles themselves.
 b. A base for trigonometric functions
