@@ -2,7 +2,7 @@
 
 This is my first large project in the Coq Proof Assistant. :)
 
-##1. DEFINITIONS.V: Create definitions of each structure and function mentioned in the
+## 1. DEFINITIONS.V: Create definitions of each structure and function mentioned in the
 paper
 a. This includes points, vectors, vector operations
   i. As well as the epicycle and deferent circles themselves.
@@ -21,7 +21,7 @@ c. A model for motion
 d. Retrograde condition
   i. This is the condition that must be satisfied for retrograde motion to occur
   ii. It is a relationship between the angular velocities and the radii
-##2. LEMMAS.V: Set up the base lemmas from which we can prove retrograde motion
+## 2. LEMMAS.V: Set up the base lemmas from which we can prove retrograde motion
 a. The idea is we will see:
   i. Forward motion → stop → backwards motion (1 → 0 → -1)
 b. There is some complicated geometric proofs in the paper, which is why these are
